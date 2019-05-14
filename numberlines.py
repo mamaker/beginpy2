@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-                            #  1
+                                                   #  1
 """                                                #  2
 numberlines.py                                     #  3
 Created on Fri Apr 26 20:38:57 2019                #  4
